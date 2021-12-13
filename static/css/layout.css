@@ -1,0 +1,92 @@
+html * {
+  
+}
+
+body{
+
+    
+
+   
+}
+.maindiv{
+   
+    height: 1075px;
+    background-color: aqua;
+}
+
+.top-div{
+    width: 100%px;
+    height: 75px;
+
+    background-color: bisque;
+}
+.mid-div{
+    display: flex;
+}
+.left-side{
+    
+    background-color: blueviolet;
+    height: 1000px;
+    width: 300px;
+}
+.right-side{
+    flex: 1;
+    background-color: rgb(30, 161, 161);
+    height: 300px;
+    
+
+}
+
+.left-side{
+    width:150px;
+
+    display: flex;
+    flex-direction: column;
+}
+.input-one{
+    margin-top: 10px;
+}
+
+.deneme1{
+    margin-top: 65px;
+    color: yellow;
+    
+}
+a :hover{
+    color: aqua;
+}
+.capiton{
+    font-size: 5em;
+}
+.article-1{
+    
+    background-color: brown;
+    border: 2px;
+    margin: 15px;
+   flex :3 
+
+}
+.article-2{
+    
+    background-color: blue;
+    border: 2px;
+    margin: 15px;
+    flex : 3 
+    ;
+}
+.article-3{
+    
+    background-color:red;
+    border: 2px;
+    margin: 15px;
+    flex : 3 
+    
+    
+}
+h1{
+    margin: 5px ;
+    margin-right: 15px;
+}
+p{
+    margin: 5px;
+}
